@@ -4,6 +4,7 @@ package com.ctci.practice;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
+import com.ctci.practice.FirstClass;
 
 /**
  * Unit test for simple App.
@@ -27,6 +28,13 @@ public class AppTest
     public static Test suite()
     {
         return new TestSuite( AppTest.class );
+    }
+
+    /**
+     * @return testing the first method created in a class
+     */
+    public void testSimplyTrue() {
+        assertTrue( FirstClass.simplyTrue() );
     }
 
     /**
