@@ -2,7 +2,7 @@
 ctci practice
 
 # making the package
-`mvn package`
+`mvn package`\n
 `mvn clean package`
 
 # running the tests
