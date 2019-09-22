@@ -6,4 +6,4 @@ ctci practice
 `mvn clean package`
 
 # running the tests
-`mvn -Dtest=<className of the test>`
+`mvn -Dtest=<className of the test> test`
