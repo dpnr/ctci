@@ -29,6 +29,12 @@
             <artifactId>commons-codec</artifactId>
             <version>1.11</version>
         </dependency>
+    
+      <dependency>
+        <groupId>com.jukusoft</groupId>
+        <artifactId>easy-i18n-gettext</artifactId>
+        <version>1.2.0</version>
+      </dependency>
     </dependencies>
 
 </project>
