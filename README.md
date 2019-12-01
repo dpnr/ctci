@@ -1,6 +1,6 @@
 # ctci
-ctci practite
-testttttttt:
+ctci practice
+
 # making the package
 `mvn package`
 `mvn clean package`
